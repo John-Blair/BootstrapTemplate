@@ -67,6 +67,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.1.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -75,6 +77,42 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BootstrapBase.html" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="css\sample.css" />
+    <Content Include="css\scrollingnav\scrolling-nav.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="media\apple-touch-icon..png" />
+    <Content Include="media\Close-small_hover_12x12px.png" />
+    <Content Include="media\Close-small_normal_12x12px.png" />
+    <Content Include="media\Facebook_hover_32x32px.png" />
+    <Content Include="media\Facebook_normal_32x32px.png" />
+    <Content Include="media\LinkedIn_hover_32x32px.png" />
+    <Content Include="media\LinkedIn_normal_32x32px.png" />
+    <Content Include="media\Print_hover_32x32px.png" />
+    <Content Include="media\Print_normal_32x32px.png" />
+    <Content Include="media\Twitter_hover_32x32px.png" />
+    <Content Include="media\Twitter_normal_32x32px.png" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.js" />
+    <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
+    <Content Include="Scripts\scrollingnav\jquery.easing.min.js" />
+    <Content Include="Scripts\scrollingnav\scrolling-nav.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
